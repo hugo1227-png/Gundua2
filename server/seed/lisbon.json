@@ -1,0 +1,12 @@
+[
+ {"name":"Reservatório da Mãe d’Água das Amoreiras","location":"Amoreiras, Lisboa, Portugal","locality":"Amoreiras","country":"Portugal","category":"Património","latitude":38.7209,"longitude":-9.1565,"placeId":"lisbon-hidden-mae-dagua"},
+ {"name":"Museu da Marioneta","location":"Rua da Esperança, Lisboa, Portugal","locality":"Santos","country":"Portugal","category":"Museu","latitude":38.7104,"longitude":-9.1578,"placeId":"lisbon-hidden-marioneta"},
+ {"name":"Feira da Ladra","location":"Campo de Santa Clara, Lisboa, Portugal","locality":"São Vicente","country":"Portugal","category":"Mercado","latitude":38.7195,"longitude":-9.1245,"placeId":"lisbon-hidden-feira-ladra"},
+ {"name":"Museu Bordalo Pinheiro","location":"Campo Grande, Lisboa, Portugal","locality":"Campo Grande","country":"Portugal","category":"Museu","latitude":38.7591,"longitude":-9.1534,"placeId":"lisbon-hidden-bordalo"},
+ {"name":"Estufa Fria","location":"Parque Eduardo VII, Lisboa, Portugal","locality":"Parque Eduardo VII","country":"Portugal","category":"Natureza","latitude":38.7285,"longitude":-9.1533,"placeId":"lisbon-hidden-estufa-fria"},
+ {"name":"Tapada das Necessidades","location":"Alcântara, Lisboa, Portugal","locality":"Alcântara","country":"Portugal","category":"Jardim histórico","latitude":38.7115,"longitude":-9.1742,"placeId":"lisbon-hidden-tapada"},
+ {"name":"Jardim do Torel","location":"Rua Júlio de Andrade, Lisboa, Portugal","locality":"Torel","country":"Portugal","category":"Jardim","latitude":38.7208,"longitude":-9.1406,"placeId":"lisbon-hidden-torel"},
+ {"name":"Casa do Alentejo","location":"Rua das Portas de Santo Antão, Lisboa, Portugal","locality":"Baixa","country":"Portugal","category":"Cultura","latitude":38.7161,"longitude":-9.1400,"placeId":"lisbon-hidden-casa-alentejo"},
+ {"name":"Jardim Botânico Tropical","location":"Belém, Lisboa, Portugal","locality":"Belém","country":"Portugal","category":"Natureza","latitude":38.6976,"longitude":-9.2045,"placeId":"lisbon-hidden-jardim-tropical"},
+ {"name":"Miradouro do Monte Agudo","location":"Penha de França, Lisboa, Portugal","locality":"Penha de França","country":"Portugal","category":"Miradouro","latitude":38.7250,"longitude":-9.1270,"placeId":"lisbon-hidden-monte-agudo"}
+]

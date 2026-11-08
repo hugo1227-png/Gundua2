@@ -1,0 +1,21 @@
+{
+  "name": "gundua-rest-mysql",
+  "version": "1.0.0-alpha.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "description": "GUNDUA university alpha: Node.js REST API + MySQL 8",
+  "scripts": {
+    "start": "node --env-file=.env src/server.js",
+    "dev": "node --env-file=.env --watch src/server.js",
+    "seed": "node --env-file=.env src/seed.js",
+    "test": "node --test test/*.test.js",
+    "check:google": "node --env-file=.env scripts/check_google_places.mjs",
+    "smoke:db": "node --env-file=.env scripts/smoke_real_db.mjs"
+  },
+  "dependencies": {
+    "mysql2": "^3.24.6"
+  }
+}
